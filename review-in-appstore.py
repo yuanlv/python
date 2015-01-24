@@ -109,8 +109,3 @@ if __name__ == "__main__" :
         finally:
                 f.close()
         """
-
-        """
-        com.voxlearning.teacher
-        com.voxlearning.teacherLaunchActivity
-        """
